@@ -1,0 +1,18 @@
+body {
+  background-color: palevioletred;
+}
+
+a {
+  border: 1px solid gray;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+  text-decoration: none;
+  background-color: plum;
+  color: black;
+  box-shadow: 13px 10px 31px -4px rgba(0, 0, 0, 0.52);
+}
+
+img {
+  margin: 20px 10px;
+}
